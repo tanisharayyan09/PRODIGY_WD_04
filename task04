@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gokul B | HR Executive</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Gokul B</h1>
+    <p>HR Executive</p>
+</header>
+
+<section class="about">
+    <h2>About Me</h2>
+    <p>
+        Passionate HR Executive with experience in recruitment,
+        employee engagement, operations support, and workforce management.
+        Experienced across engineering, staffing, and education sectors.
+    </p>
+</section>
+
+<section>
+<h2>Contact</h2>
+
+<p>Email: gokulgokul0296@gmail.com</p>
+<p>Mobile: +91 8428724162</p>
+<p>
+LinkedIn:
+<a href="https://www.linkedin.com/in/gokul-b-a04155227" target="_blank">
+View Profile
+</a>
+</p>
+
+</section>
+
+<section>
+<h2>Work Experience</h2>
+
+<div class="card">
+<h3>Site Engineer – Netcon Technologies</h3>
+<p>April 2024 – Aug 2025</p>
+</div>
+
+<div class="card">
+<h3>HR Intern – Credible Corporate Services, Chennai</h3>
+<p>May 2025 – Sep 2025</p>
+</div>
+
+<div class="card">
+<h3>HR Executive – TechXpeed Solutions LLP</h3>
+<p>April 2025 – May 2026</p>
+</div>
+
+<div class="card">
+<h3>HR Executive – Edu Scope, Coimbatore</h3>
+<p>June 2026 – Present</p>
+</div>
+
+</section>
+
+<section>
+<h2>Achievements</h2>
+
+<ul>
+<li>🏆 Best Safety Conscious Employee Award</li>
+<li>🥈 UGC Second Rank Holder</li>
+<li>🥈 Second Prize – Paper Presentation</li>
+<li>🥈 Second Place – Project Presentation</li>
+<li>📚 Best Librarian Award – GVNC</li>
+</ul>
+
+</section>
+
+<footer>
+<p>© 2026 Gokul B | Portfolio</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
